@@ -10,4 +10,9 @@ public class Utility {
 	public void m1() {
 		System.out.println("utility m1()method:123");
 	}
-}
+	
+	public void m2() {
+	}
+	
+	}
+
